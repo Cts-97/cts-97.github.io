@@ -1,16 +1,10 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 国家自然科学青年基金，风沙多尺度构建及其输运过程中跃移向短程悬移转变机制研究，2021.01至2023.12，24万元，<strong>项目负责人</strong>；
 
-- National Scholarship for Graduate Student, 2024.
+- 中国博士后科学基金，基于风沙多尺度输运模型的防护林带最优分布研究，2020.07至2021.12，8万元，<strong>项目负责人</strong>；
 
-- First-Prize Scholarship (CUMT), 2024.
+- 中央高校基本科研业务费基金，湍流间歇性对微地表泥沙沉积与运移过程影响的数值研究，2020.01至2021.12，8万元，<strong>项目负责人</strong>；
 
-- First-Prize Scholarship (CUMT), 2023.
+-防沙治沙教育部工程研究中心开放课题，风沙环境下草方格阻滞-掩埋机制及其失效过程数值研究，2021.07至2022.09，4万元，<strong>项目负责人</strong>；
 
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
+-国家自然科学基金重大项目，壁湍流统计特性的雷诺数效应，2015-01至2019-12，480万元，<strong>参与</strong>。

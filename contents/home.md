@@ -1,17 +1,20 @@
 
+(https://github.com/cts-97)
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+目前就职于上海理工大学能源与动力工程学院
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+#### 联系方式
 
-#### Contact
+邮箱: hjhuang@usst.edu.cn
 
-Email: senli[at]fas.harvard.edu
+#### 教育背景
+2007/09-2011/07，西安交通大学，飞行器设计与工程，学士\
+2011/09-2018/12，兰州大学，工程力学，博士
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### 工作经历
+2019/01-2021/05，河海大学，力学与材料学院，博士后\
+2021/06至今，上海理工大学，能源与动力工程学院，讲师
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### 主要研究领域
+极端环境流体力学、叶轮机械流动控制
 
