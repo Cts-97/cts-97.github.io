@@ -5,7 +5,7 @@
 
 - <strong>Huang HaoJie</strong>#*; Refining the connection between the logarithmic velocity profile and energy spectrum based on eddy's inclination angle, <strong>Physical Review Fluids</strong>, 2019, 4(11): 114702.
 
--<strong>Huang HaoJie</strong>#*; Bo Tian Li; Zhang Rui; Exploration of splash function and lateral velocity based on three-dimensional mixed-size grain/bed collision, <strong>Granular Matter</strong>, 2017, 19(4): 73.
+- <strong>Huang HaoJie</strong>#*; Bo Tian Li; Zhang Rui; Exploration of splash function and lateral velocity based on three-dimensional mixed-size grain/bed collision, <strong>Granular Matter</strong>, 2017, 19(4): 73.
 
 - <strong>Huang HaoJie</strong>#; Bo TianLi; Zheng XiaoJing*; Numerical modeling of wind-blown sand on Mars, <strong>European Physical Journal E</strong>, 2014, 37(9): 80.
 
