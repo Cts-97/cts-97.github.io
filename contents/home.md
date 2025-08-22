@@ -1,8 +1,4 @@
 
-[[github]](https://github.com/cts-97)
-
-目前就职于上海理工大学能源与动力工程学院
-
 #### 联系方式
 
 邮箱: hjhuang@usst.edu.cn
