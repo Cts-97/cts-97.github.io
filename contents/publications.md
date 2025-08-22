@@ -1,8 +1,8 @@
 
 #### Published
-Yan Wang#; Jingjing Zhang; Yongfen Chai; <strong>Haojie Huang<strong>; Hongyou Liu*; Aerodynamic performance of small wind turbines in sand-laden atmospheric flows, Acta Mechanica Sinica, 41(5), 324151.
+Yan Wang#; Jingjing Zhang; Yongfen Chai; <strong>Haojie Huang</strong>; Hongyou Liu*; Aerodynamic performance of small wind turbines in sand-laden atmospheric flows, <strong>Acta Mechanica Sinica</strong>, 41(5), 324151.
 
-Guosong Tong#; Ye Bian; Mingkun Qian; Yicheng Chen; <strong>Haojie Huang<strong>*; Fish body swing and tail vortex structure on maneuverability and agility during C-turn at different curvatures, <strong>Physics of Fluids</strong>, 37(3).
+Guosong Tong#; Ye Bian; Mingkun Qian; Yicheng Chen; <strong>Haojie Huang</strong>*; Fish body swing and tail vortex structure on maneuverability and agility during C-turn at different curvatures, <strong>Physics of Fluids</strong>, 37(3).
 
 <strong>Haojie Huang</strong>#*, Ye Bian, Guosong Tong, Hongyou Liu, Yan Wang; Reevaluating erosion of wind turbine blades in wind-blown sand environments: Insights into particle collision areas and density, <strong>Journal of Renewable and Sustainable Energy</strong>, 16(6).
 
@@ -10,7 +10,7 @@ Yan Wang#; Yongfen Chai#; Zhiteng Gao; Xiaobo Zheng; Ruifeng Hu; Jian Zheng; Hon
 
 <strong>Huang HaoJie</strong>#, Kun Song*; Modulation of heat flux and thermal stress at the double interface by nano-coating thickness, <strong>Zeitschrift für angewandte Mathematik und Physik</strong>, 75 (1), 20.
 
-<strong>Huang HaoJie</strong>#; Shichao Xing; Kun Song*; Suppressing thermal stress in the vicinity of a circular nano-inhomogeneity via the mechanism of size effects, 28(8), 1863-1876.
+<strong>Huang HaoJie</strong>#; Shichao Xing; Kun Song*; Suppressing thermal stress in the vicinity of a circular nano-inhomogeneity via the mechanism of size effects, <strong>Mathematics and Mechanics of Solids</strong>, 28(8), 1863-1876.
 
 <strong>Huang HaoJie</strong>#*; Xuebo Li; A theoretical model for structure inclination angles in stratified boundary layers: Connecting turbulent scaling and Monin–Obukhov similarity theory, <strong>Earth Surface Dynamics</strong>, 2023, 13(8).
 
